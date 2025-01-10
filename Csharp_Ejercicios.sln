@@ -7,13 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Ejercicios", "Csharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Fundaments", "Csharp_Fundaments\Csharp_Fundaments.csproj", "{7BE5BD5D-C8D7-4A41-BA0A-C78AD6416ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Ejercicio1", "Csharp_Ejercicio1\Csharp_Ejercicio1.csproj", "{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{87466B74-3CD3-45C3-A33E-1CC7BBCAFCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +23,12 @@ Global
 		{7BE5BD5D-C8D7-4A41-BA0A-C78AD6416ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BE5BD5D-C8D7-4A41-BA0A-C78AD6416ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BE5BD5D-C8D7-4A41-BA0A-C78AD6416ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\bin\Debug\net9.0\Csharp_Ejercicios.exe
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\bin\Debug\net9.0\Csharp_Ejercicios.deps.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\bin\Debug\net9.0\Csharp_Ejercicios.runtimeconfig.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\bin\Debug\net9.0\Csharp_Ejercicios.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\bin\Debug\net9.0\Csharp_Ejercicios.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.sourcelink.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\refint\Csharp_Ejercicios.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\Csharp_Ejercicios.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios\obj\Debug\net9.0\ref\Csharp_Ejercicios.dll

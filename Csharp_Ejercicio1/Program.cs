@@ -19,6 +19,7 @@ foreach(int numeros in num)
 Console.WriteLine($"Mi array num[5] tiene {num.Length} elementos"); // Imprimir la cantidad de elementos del array.
 
 Console.WriteLine("----------------------------------------------\n");
+Console.WriteLine("----------------------------------------------\n");
 
 int[] array = new int[10]; // Declaración de un array de 10 elementos, vacio.
 
@@ -28,9 +29,8 @@ for(int i = 0; i < array.Length; i++)
     array[i] = Convert.ToInt32(Console.ReadLine()); // Asignación de valores al array.
 }
 
-Console.WriteLine("\n");
-
-Console.WriteLine("Array[10] Posiciones:");
+Console.WriteLine("");
+Console.WriteLine("Array[10] Datos:");
 foreach(int numeros in array) // Imprimir los elementos del array.
 {
     Console.WriteLine(numeros);

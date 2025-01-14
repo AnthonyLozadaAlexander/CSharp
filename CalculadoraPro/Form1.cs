@@ -77,11 +77,14 @@ namespace CalculadoraPro
 
         private void button_suma_Click(object sender, EventArgs e)
         {  
-          
+          valor1 = Convert.ToDouble(textBox_Pantalla.Text);
+          textBox_Pantalla.Text = ""; // vaciar
         }
 
         private void button_igual_Click(object sender, EventArgs e)
         {
+            /*
+
             // string val1 = textBox_Pantalla.Text;
             // string val2 = textBox_Pantalla.Text;
 
@@ -95,6 +98,12 @@ namespace CalculadoraPro
             // resultado = (num1 + num2);
 
             // textBox_Pantalla.Text = resultado.ToString();
+            */
+            valor2 = Convert.ToDouble(textBox_Pantalla.Text);
+
+            resultado = (valor1 + valor2);
+
+            textBox_Pantalla.Text = resultado.ToString();
         }
     }
 }

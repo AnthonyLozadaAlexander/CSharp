@@ -46,11 +46,12 @@
             button_0 = new Button();
             button_limpiar = new Button();
             button_punto = new Button();
+            button_resta = new Button();
             SuspendLayout();
             // 
             // textBox_Pantalla
             // 
-            textBox_Pantalla.Font = new Font("Montserrat SemiBold", 15F, FontStyle.Bold);
+            textBox_Pantalla.Font = new Font("Miracode", 24F);
             textBox_Pantalla.Location = new Point(32, 47);
             textBox_Pantalla.Multiline = true;
             textBox_Pantalla.Name = "textBox_Pantalla";
@@ -59,7 +60,7 @@
             // 
             // button_1
             // 
-            button_1.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_1.Font = new Font("Miracode", 18F);
             button_1.Location = new Point(47, 193);
             button_1.Name = "button_1";
             button_1.Size = new Size(77, 59);
@@ -70,7 +71,7 @@
             // 
             // button_2
             // 
-            button_2.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_2.Font = new Font("Miracode", 18F);
             button_2.Location = new Point(156, 193);
             button_2.Name = "button_2";
             button_2.Size = new Size(72, 59);
@@ -81,7 +82,7 @@
             // 
             // button_3
             // 
-            button_3.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_3.Font = new Font("Miracode", 18F);
             button_3.Location = new Point(253, 193);
             button_3.Name = "button_3";
             button_3.Size = new Size(75, 59);
@@ -92,7 +93,7 @@
             // 
             // button_6
             // 
-            button_6.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_6.Font = new Font("Miracode", 18F);
             button_6.Location = new Point(253, 272);
             button_6.Name = "button_6";
             button_6.Size = new Size(75, 59);
@@ -103,7 +104,7 @@
             // 
             // button_5
             // 
-            button_5.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_5.Font = new Font("Miracode", 18F);
             button_5.Location = new Point(156, 272);
             button_5.Name = "button_5";
             button_5.Size = new Size(72, 59);
@@ -114,7 +115,7 @@
             // 
             // button_4
             // 
-            button_4.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_4.Font = new Font("Miracode", 18F);
             button_4.Location = new Point(47, 272);
             button_4.Name = "button_4";
             button_4.Size = new Size(77, 59);
@@ -125,7 +126,7 @@
             // 
             // button_9
             // 
-            button_9.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_9.Font = new Font("Miracode", 18F);
             button_9.Location = new Point(253, 348);
             button_9.Name = "button_9";
             button_9.Size = new Size(75, 59);
@@ -136,7 +137,7 @@
             // 
             // button_8
             // 
-            button_8.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_8.Font = new Font("Miracode", 18F);
             button_8.Location = new Point(156, 348);
             button_8.Name = "button_8";
             button_8.Size = new Size(72, 59);
@@ -147,7 +148,7 @@
             // 
             // button_7
             // 
-            button_7.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_7.Font = new Font("Miracode", 18F);
             button_7.Location = new Point(47, 348);
             button_7.Name = "button_7";
             button_7.Size = new Size(77, 59);
@@ -159,9 +160,9 @@
             // button_igual
             // 
             button_igual.Font = new Font("Montserrat", 16F, FontStyle.Bold);
-            button_igual.Location = new Point(253, 413);
+            button_igual.Location = new Point(478, 390);
             button_igual.Name = "button_igual";
-            button_igual.Size = new Size(75, 59);
+            button_igual.Size = new Size(92, 82);
             button_igual.TabIndex = 13;
             button_igual.Text = "=";
             button_igual.UseVisualStyleBackColor = true;
@@ -170,12 +171,13 @@
             // button_multiplicar
             // 
             button_multiplicar.Font = new Font("Montserrat Medium", 21F, FontStyle.Bold);
-            button_multiplicar.Location = new Point(365, 289);
+            button_multiplicar.Location = new Point(365, 390);
             button_multiplicar.Name = "button_multiplicar";
             button_multiplicar.Size = new Size(92, 82);
             button_multiplicar.TabIndex = 12;
             button_multiplicar.Text = "x";
             button_multiplicar.UseVisualStyleBackColor = true;
+            button_multiplicar.Click += button_multiplicar_Click;
             // 
             // button_dividir
             // 
@@ -186,6 +188,7 @@
             button_dividir.TabIndex = 11;
             button_dividir.Text = "÷";
             button_dividir.UseVisualStyleBackColor = true;
+            button_dividir.Click += button_dividir_Click;
             // 
             // button_suma
             // 
@@ -200,8 +203,8 @@
             // 
             // button_Salir
             // 
-            button_Salir.Font = new Font("Montserrat SemiBold", 15F, FontStyle.Bold);
-            button_Salir.Location = new Point(475, 507);
+            button_Salir.Font = new Font("Miracode", 14.25F);
+            button_Salir.Location = new Point(47, 518);
             button_Salir.Name = "button_Salir";
             button_Salir.Size = new Size(95, 67);
             button_Salir.TabIndex = 14;
@@ -211,7 +214,7 @@
             // 
             // button_0
             // 
-            button_0.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_0.Font = new Font("Miracode", 18F);
             button_0.Location = new Point(153, 413);
             button_0.Name = "button_0";
             button_0.Size = new Size(75, 59);
@@ -233,19 +236,32 @@
             // 
             // button_punto
             // 
-            button_punto.Font = new Font("Montserrat", 16F, FontStyle.Bold);
+            button_punto.Font = new Font("Miracode", 18F);
             button_punto.Location = new Point(49, 413);
             button_punto.Name = "button_punto";
             button_punto.Size = new Size(75, 59);
             button_punto.TabIndex = 17;
             button_punto.Text = ".";
             button_punto.UseVisualStyleBackColor = true;
+            button_punto.Click += button_punto_Click;
+            // 
+            // button_resta
+            // 
+            button_resta.Font = new Font("Montserrat Medium", 21F, FontStyle.Bold);
+            button_resta.Location = new Point(365, 296);
+            button_resta.Name = "button_resta";
+            button_resta.Size = new Size(92, 82);
+            button_resta.TabIndex = 18;
+            button_resta.Text = "-";
+            button_resta.UseVisualStyleBackColor = true;
+            button_resta.Click += button_resta_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(629, 594);
+            ClientSize = new Size(629, 611);
+            Controls.Add(button_resta);
             Controls.Add(button_punto);
             Controls.Add(button_limpiar);
             Controls.Add(button_0);
@@ -267,7 +283,7 @@
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "CalculadoraPro";
+            Text = "CalculadoraPro_Max98";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -292,5 +308,6 @@
         private Button button_0;
         private Button button_limpiar;
         private Button button_punto;
+        private Button button_resta;
     }
 }

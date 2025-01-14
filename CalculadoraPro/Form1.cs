@@ -1,11 +1,15 @@
+using System.Diagnostics.Eventing.Reader;
+
 namespace CalculadoraPro
 {
     public partial class Form1 : Form
     {
-       private double valor1;
-       private double valor2;
+        // variables globales
+        private double valor1;
+        private double valor2;
+        private double resultado;
 
-       private double resultado;
+        private int operacion; // bandera
 
         public Form1()
         {
@@ -76,11 +80,40 @@ namespace CalculadoraPro
         }
 
         private void button_suma_Click(object sender, EventArgs e)
-        {  
-          valor1 = Convert.ToDouble(textBox_Pantalla.Text);
-          textBox_Pantalla.Text = ""; // vaciar
+        {
+            operacion = 1; // bandera
+            valor1 = Convert.ToDouble(textBox_Pantalla.Text); // guardar el valor en la variable valor1
+            textBox_Pantalla.Text = ""; // vaciar pantalla
+
         }
 
+        private void button_resta_Click(object sender, EventArgs e)
+        {
+            operacion = 2; // bandera
+            valor1 = Convert.ToDouble(Convert.ToDouble(textBox_Pantalla.Text)); // guardar el valor en la variable valor1
+            textBox_Pantalla.Text = ""; // vaciar pantalla
+        }
+
+        private void button_multiplicar_Click(object sender, EventArgs e)
+        {
+            operacion = 3; // bandera
+            valor1 = Convert.ToDouble(textBox_Pantalla.Text); // guardar el valor en la variable valor1
+            textBox_Pantalla.Text = ""; // vaciar pantalla
+        }
+
+        private void button_dividir_Click(object sender, EventArgs e)
+        {
+            operacion = 4; // bandera
+            valor1 = Convert.ToDouble(textBox_Pantalla.Text); // guardar el valor en la variable valor1
+            textBox_Pantalla.Text = ""; // vaciar pantalla
+        }
+        private void button_punto_Click(object sender, EventArgs e)
+        {
+            if(!textBox_Pantalla.Text.Contains(".")) // si no contiene un punto
+            {
+                textBox_Pantalla.Text += ".";
+            }
+        }
         private void button_igual_Click(object sender, EventArgs e)
         {
             /*
@@ -99,11 +132,60 @@ namespace CalculadoraPro
 
             // textBox_Pantalla.Text = resultado.ToString();
             */
-            valor2 = Convert.ToDouble(textBox_Pantalla.Text);
 
-            resultado = (valor1 + valor2);
+            valor2 = Convert.ToDouble(textBox_Pantalla.Text); // guardar el valor en la variable valor2
 
+            switch (operacion)
+            {
+                case 1:
+                    resultado = valor1 + valor2;
+                    break;
+
+                case 2:
+                    /*
+                    if (valor1 < valor2)
+                    {
+                        MessageBox.Show("Error, el primero valor de una resta debe ser mayor que el segundo valor");
+                    }
+                    else if (valor2 == 0)
+                    {
+                        MessageBox.Show("Error, el segundo valor de una resta no puede ser 0");
+                    }
+                    else*/
+
+                    resultado = valor1 - valor2;
+
+                    break;
+
+                case 3:
+                    resultado = valor1 * valor2;
+                    break;
+
+                case 4:
+                    if (valor2 == 0)
+                    {
+                        MessageBox.Show("El segundo valor de una divisi�n no puede ser 0");
+                        resultado = valor1 / valor2;
+                    }
+                    else if (valor1 < valor2)
+                    {
+                        MessageBox.Show("El primer valor de una divisi�n debe ser mayor que el segundo valor");
+                        resultado = valor1 / valor2;
+                    }
+                    else
+                    {
+                        resultado = valor1 / valor2;
+                    }
+                    break;
+
+                default:
+                    MessageBox.Show("Error");
+                    break;
+            }
+
+            // el resultado debe ir fuera del switch
             textBox_Pantalla.Text = resultado.ToString();
         }
+
     }
 }

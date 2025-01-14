@@ -1,0 +1,2 @@
+C:\Users\user\Documents\ProjectsTest_C#\project_calculator\CalculadoraPro.pdb
+C:\Users\user\Documents\ProjectsTest_C#\project_calculator\CalculadoraPro.exe

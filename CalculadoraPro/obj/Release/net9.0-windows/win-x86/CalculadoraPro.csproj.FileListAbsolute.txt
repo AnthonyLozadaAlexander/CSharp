@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\bin\Release\net9.0-windows\win-x86\CalculadoraPro.exe
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\bin\Release\net9.0-windows\win-x86\CalculadoraPro.deps.json
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\bin\Release\net9.0-windows\win-x86\CalculadoraPro.runtimeconfig.json
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\bin\Release\net9.0-windows\win-x86\CalculadoraPro.dll
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\bin\Release\net9.0-windows\win-x86\CalculadoraPro.pdb
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.Form1.resources
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.sourcelink.json
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.dll
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\refint\CalculadoraPro.dll
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.pdb
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\CalculadoraPro.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualSCode_C#\CalculadoraPro\obj\Release\net9.0-windows\win-x86\ref\CalculadoraPro.dll

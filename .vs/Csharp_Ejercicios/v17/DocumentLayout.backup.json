@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}|Csharp_Ejercicio1\\Csharp_Ejercicio1.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}|Csharp_Ejercicio1\\Csharp_Ejercicio1.csproj|solutionrelative:csharp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7135815-7144-4C16-9AAC-EE2325EF64DB}|CalculadoraPro\\CalculadoraPro.csproj|c:\\users\\user\\desktop\\visualscode_c#\\calculadorapro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7135815-7144-4C16-9AAC-EE2325EF64DB}|CalculadoraPro\\CalculadoraPro.csproj|solutionrelative:calculadorapro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87466B74-3CD3-45C3-A33E-1CC7BBCAFCE1}|Csharp_Ejercicios\\Csharp_Ejercicios.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87466B74-3CD3-45C3-A33E-1CC7BBCAFCE1}|Csharp_Ejercicios\\Csharp_Ejercicios.csproj|solutionrelative:csharp_ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7135815-7144-4C16-9AAC-EE2325EF64DB}|CalculadoraPro\\CalculadoraPro.csproj|C:\\Users\\user\\Desktop\\VisualSCode_C#\\calculadorapro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7135815-7144-4C16-9AAC-EE2325EF64DB}|CalculadoraPro\\CalculadoraPro.csproj|solutionrelative:calculadorapro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Csharp_Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio1\\Program.cs",
-              "RelativeToolTip": "Csharp_Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T00:06:28.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios\\Program.cs",
-              "RelativeDocumentMoniker": "Csharp_Ejercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios\\Program.cs",
-              "RelativeToolTip": "Csharp_Ejercicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T23:28:53.897Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -61,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\CalculadoraPro\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraPro\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\CalculadoraPro\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculadoraPro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:19:02.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\CalculadoraPro\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraPro\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\CalculadoraPro\\Form1.cs",
+              "RelativeToolTip": "CalculadoraPro\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "CalculadoraPro",
+              "WhenOpened": "2025-01-13T05:59:34.014Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -2,6 +2,11 @@ namespace CalculadoraPro
 {
     public partial class Form1 : Form
     {
+       private double valor1;
+       private double valor2;
+
+       private double resultado;
+
         public Form1()
         {
             InitializeComponent();
@@ -77,19 +82,19 @@ namespace CalculadoraPro
 
         private void button_igual_Click(object sender, EventArgs e)
         {
-            string val1 = textBox_Pantalla.Text;
-            string val2 = textBox_Pantalla.Text;
+            // string val1 = textBox_Pantalla.Text;
+            // string val2 = textBox_Pantalla.Text;
 
-            double resultado = 0;
-            double num1 = 0;
-            double num2 = 0;
+            // double resultado = 0;
+            // double num1 = 0;
+            // double num2 = 0;
 
-            num1 = Convert.ToDouble(val1);
-            num2 = Convert.ToDouble(val2);
+            // num1 = Convert.ToDouble(val1);
+            // num2 = Convert.ToDouble(val2);
 
-            resultado = (num1 + num2);
+            // resultado = (num1 + num2);
 
-            textBox_Pantalla.Text = resultado.ToString();
+            // textBox_Pantalla.Text = resultado.ToString();
         }
     }
 }

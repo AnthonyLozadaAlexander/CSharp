@@ -109,10 +109,7 @@ namespace CalculadoraPro
         }
         private void button_punto_Click(object sender, EventArgs e)
         {
-            if(!textBox_Pantalla.Text.Contains(".")) // si no contiene un punto
-            {
-                textBox_Pantalla.Text += ".";
-            }
+            textBox_Pantalla.Text += ".";
         }
         private void button_igual_Click(object sender, EventArgs e)
         {
@@ -142,7 +139,7 @@ namespace CalculadoraPro
                     break;
 
                 case 2:
-                
+
                     if (valor1 < valor2)
                     {
                         MessageBox.Show("Error, el primero valor de una resta debe ser mayor que el segundo valor");
@@ -154,8 +151,8 @@ namespace CalculadoraPro
                     else
                     {
 
-                    resultado = valor1 - valor2;
-                    
+                        resultado = valor1 - valor2;
+
                     }
                     break;
 
@@ -166,12 +163,12 @@ namespace CalculadoraPro
                 case 4:
                     if (valor2 == 0)
                     {
-                        MessageBox.Show("El segundo valor de una divisi�n no puede ser 0");
-                        resultado = valor1 / valor2;
+                        MessageBox.Show("Error: El segundo valor de una division no puede ser 0");
+                        textBox_Pantalla.Text = "";
                     }
                     else if (valor1 < valor2)
                     {
-                        MessageBox.Show("El primer valor de una divisi�n debe ser mayor que el segundo valor");
+                        MessageBox.Show("Error: ell primer valor de una division debe ser mayor que el segundo valor");
                         resultado = valor1 / valor2;
                     }
                     else
@@ -186,7 +183,26 @@ namespace CalculadoraPro
             }
 
             // el resultado debe ir fuera del switch
-            textBox_Pantalla.Text = resultado.ToString();
+            if (operacion == 1)
+            {
+                textBox_Pantalla.Text = (valor1 + " + " + valor2 + " = " + resultado.ToString());
+            }
+            else if (operacion == 2)
+            {
+                textBox_Pantalla.Text = (valor1 + " - " + valor2 + " = " + resultado.ToString());
+            }
+            else if (operacion == 3)
+            {
+                textBox_Pantalla.Text = (valor1 + " * " + valor2 + " = " + resultado.ToString());
+            }
+            else if (operacion == 4)
+            {
+                textBox_Pantalla.Text = (valor1 + " ÷ " + valor2 + " = " + resultado.ToString());
+            }
+            else
+            {
+                MessageBox.Show("Error");
+            }
         }
 
     }

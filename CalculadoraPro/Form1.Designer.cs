@@ -208,7 +208,7 @@
             button_Salir.Name = "button_Salir";
             button_Salir.Size = new Size(95, 67);
             button_Salir.TabIndex = 14;
-            button_Salir.Text = "Salir";
+            button_Salir.Text = "Exit";
             button_Salir.UseVisualStyleBackColor = true;
             button_Salir.Click += button_Salir_Click;
             // 
@@ -260,7 +260,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(629, 611);
+            ClientSize = new Size(615, 611);
             Controls.Add(button_resta);
             Controls.Add(button_punto);
             Controls.Add(button_limpiar);

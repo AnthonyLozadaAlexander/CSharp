@@ -150,9 +150,7 @@ namespace CalculadoraPro
                     }
                     else
                     {
-
                         resultado = valor1 - valor2;
-
                     }
                     break;
 

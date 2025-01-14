@@ -142,7 +142,7 @@ namespace CalculadoraPro
                     break;
 
                 case 2:
-                    /*
+                
                     if (valor1 < valor2)
                     {
                         MessageBox.Show("Error, el primero valor de una resta debe ser mayor que el segundo valor");
@@ -151,10 +151,12 @@ namespace CalculadoraPro
                     {
                         MessageBox.Show("Error, el segundo valor de una resta no puede ser 0");
                     }
-                    else*/
+                    else
+                    {
 
                     resultado = valor1 - valor2;
-
+                    
+                    }
                     break;
 
                 case 3:

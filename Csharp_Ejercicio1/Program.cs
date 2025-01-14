@@ -29,8 +29,8 @@ for(int i = 0; i < array.Length; i++)
 }
 
 Console.WriteLine("\n");
-Console.WriteLine("Array[10] Posiciones:");
 
+Console.WriteLine("Array[10] Posiciones:");
 foreach(int numeros in array) // Imprimir los elementos del array.
 {
     Console.WriteLine(numeros);

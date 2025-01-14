@@ -1,0 +1,5 @@
+C:\Users\user\Documents\ProjectsTest_C#\CalculadoraProMax19_2.0\CalculadoraPro.exe
+C:\Users\user\Documents\ProjectsTest_C#\CalculadoraProMax19_2.0\CalculadoraPro.dll
+C:\Users\user\Documents\ProjectsTest_C#\CalculadoraProMax19_2.0\CalculadoraPro.deps.json
+C:\Users\user\Documents\ProjectsTest_C#\CalculadoraProMax19_2.0\CalculadoraPro.runtimeconfig.json
+C:\Users\user\Documents\ProjectsTest_C#\CalculadoraProMax19_2.0\CalculadoraPro.pdb

@@ -280,7 +280,7 @@
             Controls.Add(button_2);
             Controls.Add(button_1);
             Controls.Add(textBox_Pantalla);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "CalculadoraPro_Max98";

@@ -90,7 +90,7 @@ namespace CalculadoraPro
         private void button_resta_Click(object sender, EventArgs e)
         {
             operacion = 2; // bandera
-            valor1 = Convert.ToDouble(Convert.ToDouble(textBox_Pantalla.Text)); // guardar el valor en la variable valor1
+            valor1 = Convert.ToDouble(textBox_Pantalla.Text); // guardar el valor en la variable valor1
             textBox_Pantalla.Text = ""; // vaciar pantalla
         }
 

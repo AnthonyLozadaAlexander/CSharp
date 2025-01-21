@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_Ejercicio2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120e1d609cab210a3023fe931adffc6bff2e5949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1142ebc7dcdda17ca3b40fa2e092edcd87d621")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp_Ejercicio2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp_Ejercicio2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

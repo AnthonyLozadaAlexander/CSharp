@@ -166,7 +166,7 @@ namespace CalculadoraPro
                     }
                     else if (valor1 < valor2)
                     {
-                        MessageBox.Show("Error: ell primer valor de una division debe ser mayor que el segundo valor");
+                        MessageBox.Show("Error: el primer valor de una division debe ser mayor que el segundo valor");
                         resultado = valor1 / valor2;
                     }
                     else

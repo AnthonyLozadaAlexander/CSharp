@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Ejercicio2", "Csharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraPro", "CalculadoraPro\CalculadoraPro.csproj", "{B7135815-7144-4C16-9AAC-EE2325EF64DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Ejercicios3", "Csharp_Ejercicios3\Csharp_Ejercicios3.csproj", "{F970FC9E-3831-4809-80F5-235D4C58148C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B7135815-7144-4C16-9AAC-EE2325EF64DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7135815-7144-4C16-9AAC-EE2325EF64DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7135815-7144-4C16-9AAC-EE2325EF64DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F970FC9E-3831-4809-80F5-235D4C58148C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F970FC9E-3831-4809-80F5-235D4C58148C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F970FC9E-3831-4809-80F5-235D4C58148C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F970FC9E-3831-4809-80F5-235D4C58148C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

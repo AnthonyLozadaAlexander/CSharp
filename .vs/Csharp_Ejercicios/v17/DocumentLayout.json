@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}|Csharp_Ejercicio1\\Csharp_Ejercicio1.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA4C5A5-C92B-4900-AE27-CBFB0661CEC3}|Csharp_Ejercicio1\\Csharp_Ejercicio1.csproj|solutionrelative:csharp_ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F60735FC-8140-44E5-B8E6-45A8665BB9C7}|Csharp_Ejercicio2\\Csharp_Ejercicio2.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F60735FC-8140-44E5-B8E6-45A8665BB9C7}|Csharp_Ejercicio2\\Csharp_Ejercicio2.csproj|solutionrelative:csharp_ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F970FC9E-3831-4809-80F5-235D4C58148C}|Csharp_Ejercicios3\\Csharp_Ejercicios3.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F970FC9E-3831-4809-80F5-235D4C58148C}|Csharp_Ejercicios3\\Csharp_Ejercicios3.csproj|solutionrelative:csharp_ejercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,26 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Csharp_Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio1\\Program.cs",
-              "RelativeToolTip": "Csharp_Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios3\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp_Ejercicios3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios3\\Program.cs",
+              "RelativeToolTip": "Csharp_Ejercicios3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:07:46.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Csharp_Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicio2\\Program.cs",
-              "RelativeToolTip": "Csharp_Ejercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T22:07:41.585Z",
+              "WhenOpened": "2025-01-21T22:02:39.259Z",
               "EditorCaption": ""
             }
           ]

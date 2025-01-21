@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\bin\Release\net9.0\Csharp_Ejercicios3.exe
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\bin\Release\net9.0\Csharp_Ejercicios3.deps.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\bin\Release\net9.0\Csharp_Ejercicios3.runtimeconfig.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\bin\Release\net9.0\Csharp_Ejercicios3.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\bin\Release\net9.0\Csharp_Ejercicios3.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.sourcelink.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\refint\Csharp_Ejercicios3.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\Csharp_Ejercicios3.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Ejercicios3\obj\Release\net9.0\ref\Csharp_Ejercicios3.dll

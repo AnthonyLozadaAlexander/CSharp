@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Ejercicio: Ordenar un array\n");
+﻿Console.WriteLine("Ejercicio: Ordenar un array");
+Console.WriteLine("--------------------------------");
 int[] numeros = { 4, 3, 7, 10, 1, 5, 7 };
 Array.Sort(numeros);
 

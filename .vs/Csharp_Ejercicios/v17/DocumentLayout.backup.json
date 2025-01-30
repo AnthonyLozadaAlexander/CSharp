@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F970FC9E-3831-4809-80F5-235D4C58148C}|Csharp_Ejercicios3\\Csharp_Ejercicios3.csproj|c:\\users\\user\\desktop\\visualscode_c#\\csharp_ejercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F970FC9E-3831-4809-80F5-235D4C58148C}|Csharp_Ejercicios3\\Csharp_Ejercicios3.csproj|solutionrelative:csharp_ejercicios3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE34C661-3FE9-4EAA-9C74-1A32AC242C09}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\user\\desktop\\visualscode_c#\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE34C661-3FE9-4EAA-9C74-1A32AC242C09}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios3\\Program.cs",
-              "RelativeDocumentMoniker": "Csharp_Ejercicios3\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Csharp_Ejercicios3\\Program.cs",
-              "RelativeToolTip": "Csharp_Ejercicios3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T22:02:39.259Z",
+              "WhenOpened": "2025-01-29T03:43:01.821Z",
               "EditorCaption": ""
             }
           ]

@@ -1,3 +1,4 @@
 {
-  "dotnet.defaultSolution": "Csharp_Ejercicios.sln"
+  "dotnet.defaultSolution": "Csharp_Ejercicios.sln",
+  "dotnet.preferCSharpExtension": true
 }

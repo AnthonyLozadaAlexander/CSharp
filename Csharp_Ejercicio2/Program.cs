@@ -22,6 +22,7 @@ for(int i = 0; i < array2.Length; i++)
   Console.WriteLine(array2[i]);
 }
 
+//? Verificar si hay coincidencias
 for(int i = 0; i < array1.Length; i++)
 {
   for(int j = 0; j < array2.Length; j++)
@@ -45,6 +46,7 @@ for(int i = 0; i < array1.Length; i++)
   }
 }
 
+//? Mostrar/Imprimir las coincidencias
 Console.WriteLine("Las Coincidencias son: ");
 for(int i = 0; i < numeroCoincidencias; i++)
 {

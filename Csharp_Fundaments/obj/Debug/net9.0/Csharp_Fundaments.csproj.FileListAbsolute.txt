@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\bin\Debug\net9.0\Csharp_Fundaments.exe
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\bin\Debug\net9.0\Csharp_Fundaments.deps.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\bin\Debug\net9.0\Csharp_Fundaments.runtimeconfig.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\bin\Debug\net9.0\Csharp_Fundaments.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\bin\Debug\net9.0\Csharp_Fundaments.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.sourcelink.json
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\refint\Csharp_Fundaments.dll
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.pdb
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\Csharp_Fundaments.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualSCode_C#\Csharp_Fundaments\obj\Debug\net9.0\ref\Csharp_Fundaments.dll

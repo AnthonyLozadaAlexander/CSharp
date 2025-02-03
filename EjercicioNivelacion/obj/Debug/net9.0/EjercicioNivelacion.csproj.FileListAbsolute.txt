@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.AssemblyInfo.cs
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.sourcelink.json
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\bin\Debug\net9.0\EjercicioNivelacion.exe
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\bin\Debug\net9.0\EjercicioNivelacion.deps.json
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\bin\Debug\net9.0\EjercicioNivelacion.runtimeconfig.json
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\bin\Debug\net9.0\EjercicioNivelacion.dll
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\bin\Debug\net9.0\EjercicioNivelacion.pdb
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.dll
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\refint\EjercicioNivelacion.dll
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.pdb
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\EjercicioNivelacion.genruntimeconfig.cache
+C:\Users\user\Desktop\VisualSCode_C#\EjercicioNivelacion\obj\Debug\net9.0\ref\EjercicioNivelacion.dll

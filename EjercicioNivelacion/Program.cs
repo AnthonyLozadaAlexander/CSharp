@@ -87,7 +87,7 @@ namespace EjercicioNivelacion
             break;
 
         case 3:
-        
+
             Console.WriteLine("Ingrese el numero del alumno que desea buscar");
             Console.WriteLine($"Ingrese: 1 para buscar el promedio del alumno: {Alumno[0]}");
             Console.WriteLine($"Ingrese: 2 para buscar el promedio del alumno: {Alumno[1]}");
@@ -127,25 +127,26 @@ namespace EjercicioNivelacion
             {
               Console.WriteLine("El numero ingresado no es valido");
             }
+            Console.WriteLine("");
+            Console.WriteLine("Desea volver al Menu Principal? si/no");
+            Console.WriteLine("Ingrese si o no");
+
+            op = Console.ReadLine();
+            if(op == "si" || op == "SI" || op == "Si" || op == "sI")
+            {
+              op = "si";
+            }
+            else
+            {
+            Console.WriteLine("Gracias por usar el programa");
+            }
             break;
 
-          default:
+            default:
             Console.WriteLine("La opcion ingresada no es valida");
             break;
 
         }
-      }
-      Console.WriteLine("Desea volver al Menu Principal? si/no");
-      Console.WriteLine("Ingrese si o no");
-
-      op = Console.ReadLine();
-      if(op == "si" || op == "SI" || op == "Si" || op == "sI")
-      {
-        op = "si";
-      }
-      else
-      {
-        Console.WriteLine("Gracias por usar el programa");
       }
 
     }

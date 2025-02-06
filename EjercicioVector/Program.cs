@@ -1,6 +1,4 @@
-﻿// Realizar un programa que permita la carga de 15 numeros en un vector. Una vez cargados, se necesita que el programa cuente e informe por pantalla cuantas veces se repite el numero 3 en el vector.
-
-using System;
+﻿using System;
 
 namespace EjercicioVector
 {
@@ -8,6 +6,8 @@ namespace EjercicioVector
     {
         public static void Main(string[] args)
         {
+            // Realizar un programa que permita la carga de 15 numeros en un vector. Una vez cargados, se necesita que el programa cuente e informe por pantalla cuantas veces se repite el numero 3 en el vector.
+            
             int[] nums = new int[15];
 
             for (int i = 0; i < nums.Length; i++)

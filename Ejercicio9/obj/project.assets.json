@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\EjercicioVector\\EjercicioVector.csproj",
-      "projectName": "EjercicioVector",
-      "projectPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\EjercicioVector\\EjercicioVector.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Ejercicio9\\Ejercicio9.csproj",
+      "projectName": "Ejercicio9",
+      "projectPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Ejercicio9\\Ejercicio9.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\EjercicioVector\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\VisualSCode_C#\\Ejercicio9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

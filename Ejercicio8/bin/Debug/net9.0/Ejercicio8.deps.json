@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "EjercicioVector/1.0.0": {
+      "Ejercicio8/1.0.0": {
         "runtime": {
-          "EjercicioVector.dll": {}
+          "Ejercicio8.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EjercicioVector/1.0.0": {
+    "Ejercicio8/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

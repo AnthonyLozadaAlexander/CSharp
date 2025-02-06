@@ -58,6 +58,7 @@ namespace EjercicioNivelacion
         if(op == "si" || op == "SI" || op == "Si" || op == "sI")
         {
           op = "si";
+          Console.Clear();
         }
         else
         {
@@ -78,6 +79,7 @@ namespace EjercicioNivelacion
             if(op == "si" || op == "SI" || op == "Si" || op == "sI")
             {
               op = "si";
+              Console.Clear();
             }
             else
             {
@@ -135,6 +137,7 @@ namespace EjercicioNivelacion
             if(op == "si" || op == "SI" || op == "Si" || op == "sI")
             {
               op = "si";
+              Console.Clear();
             }
             else
             {
